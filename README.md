@@ -1,4 +1,4 @@
-# Tutorial-laravel Versi 8
+# Tutorial-laravel
 
 Bagaimana cara menjalankan laravel
 
